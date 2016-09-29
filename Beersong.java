@@ -9,7 +9,7 @@ package beersong;
  *
  * @author Brandon
  */
-public class Beersong {
+public class Beersong implements BeerSongImplementation {
 
     /**
      * @param args the command line arguments
